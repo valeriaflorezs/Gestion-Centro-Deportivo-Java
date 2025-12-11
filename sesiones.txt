@@ -1,0 +1,16 @@
+88013,Juan Pérez,12345678,Fuerza,Carmen Vargas,08-03-2025,10:30
+72283,Ana Rodríguez,87654321,Resistencia,Sofía Díaz,09-03-2025,13:30
+91023,Luis García,11223344,Velocidad,Patricia Mora,10-03-2025,14:00
+36996,Maria López,44332211,Flexibilidad,Diego Ramírez,11-03-2025,16:00
+45345,Carlos Jiménez,55667788,Cardio,Juan Pérez,12-03-2025,15:00
+59588,Elena Castillo,99887766,Fuerza,Diego Ramírez,13-03-2025,16:30
+54896,Diego Marín,66778899,Resistencia,Pedro Jiménez,14-03-2025,12:30
+69725,Sofía Herrera,77889900,Velocidad,María Gómez,15-03-2025,07:00
+44931,Andrés Ríos,99001122,Flexibilidad,Sofía Díaz,16-03-2025,08:00
+26932,Paula Medina,22334455,Cardio,Carlos López,17-03-2025,18:30
+95260,Fernando Torres,33445566,Fuerza,María Gómez,18-03-2025,18:30
+87423,Isabel Guzmán,44556677,Resistencia,Andrés Castro,19-03-2025,17:00
+62831,Roberto Peña,55667788,Velocidad,Diego Ramírez,20-03-2025,07:00
+64346,Natalia Estrada,66778899,Flexibilidad,Laura Sánchez,21-03-2025,15:00
+82934,Daniela Vargas,77889900,Cardio,Patricia Mora,22-03-2025,15:30
+106268,Valeria Florez,12345,Velocidad,Jorge Ruiz,15-03-2025,10:00,

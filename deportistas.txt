@@ -1,0 +1,46 @@
+Laura Gómez,123456789,Fútbol,555-1234,10
+Carlos Martínez,987654321,Lesión de rodilla,555-5678,8
+Ana López,456789123,Baloncesto,555-8765,12
+Jorge Ramírez,321654987,Lesión de hombro,555-4321,6
+Sofía Díaz,789123456,Natación,555-9876,9
+Diego Ruiz,654987321,Lesión de espalda,555-6543,7
+María Torres,147258369,Tenis,555-3214,11
+Pedro Jiménez,258369147,Lesión de tobillo,555-7412,5
+Carmen Vargas,369258147,Ciclismo,555-8520,4
+Andrés Castro,159357486,Lesión de codo,555-9630,3
+Patricia Mora,357159486,Atletismo,555-1597,12
+Ricardo Soto,753951852,Lesión de muñeca,555-3579,2
+Mónica Díaz,951753852,Voleibol,555-7531,6
+Luis Ramírez,852963741,Lesión de cadera,555-8521,8
+Juan Pérez,963852741,Boxeo,555-9632,10
+Gabriela Rojas,123987456,Lesión de rodilla,555-1235,9
+Fernando Morales,456321789,Fútbol,555-5679,7
+Lucía Herrera,789654123,Lesión de hombro,555-8766,11
+Roberto Núñez,321987654,Baloncesto,555-4322,8
+Elena Castro,654321987,Lesión de espalda,555-9877,6
+Javier Méndez,987123456,Natación,555-6544,10
+Isabel Flores,147852369,Lesión de tobillo,555-3215,5
+Oscar Díaz,258741369,Tenis,555-7413,12
+Adriana Ríos,369852147,Lesión de codo,555-8522,4
+Raúl Mendoza,159753486,Ciclismo,555-9631,3
+Silvia Paredes,357456159,Lesión de muñeca,555-1598,2
+Héctor Guzmán,753654852,Atletismo,555-3570,7
+Natalia Soto,951357852,Lesión de cadera,555-7532,9
+Mario López,852741963,Voleibol,555-8523,6
+Verónica Medina,963741852,Lesión de rodilla,555-9633,8
+Alejandro Vargas,123654789,Boxeo,555-1236,10
+Daniela Rivas,456987321,Lesión de hombro,555-5670,12
+Ricardo Mora,789321654,Fútbol,555-8767,5
+Patricia Soto,321789654,Lesión de espalda,555-4323,4
+Francisco Rojas,654789321,Baloncesto,555-9878,11
+Sara Jiménez,987456123,Lesión de tobillo,555-6545,7
+Manuel Torres,147963258,Natación,555-3216,9
+Carmen López,258369741,Lesión de codo,555-7414,6
+Jorge Herrera,369147852,Tenis,555-8524,8
+Luisa Díaz,159357486,Lesión de muñeca,555-9634,3
+Roberto Castro,357159753,Ciclismo,555-1599,2
+Ana Morales,753159852,Lesión de cadera,555-3571,10
+Miguel Ríos,951753654,Atletismo,555-7533,12
+Elena Méndez,852963147,Lesión de rodilla,555-8525,5
+Carlos Soto,963852147,Voleibol,555-9635,4
+Andrea,1234,patinaje,2345,1,
